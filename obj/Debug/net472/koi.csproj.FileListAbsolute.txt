@@ -1,0 +1,11 @@
+D:\humanot\Desktop\dumper\excl-loader-dumped\bin\Debug\net472\Exclusive csgo injector.exe.config
+D:\humanot\Desktop\dumper\excl-loader-dumped\bin\Debug\net472\Exclusive csgo injector.exe
+D:\humanot\Desktop\dumper\excl-loader-dumped\bin\Debug\net472\Exclusive csgo injector.pdb
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\koi.csproj.AssemblyReference.cache
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\koi.csproj.SuggestedBindingRedirects.cache
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\Exclusive_injector.Properties.Resources.resources
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\koi.csproj.GenerateResource.cache
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\koi.GeneratedMSBuildEditorConfig.editorconfig
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\koi.csproj.CoreCompileInputs.cache
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\Exclusive csgo injector.exe
+D:\humanot\Desktop\dumper\excl-loader-dumped\obj\Debug\net472\Exclusive csgo injector.pdb
